@@ -20,10 +20,5 @@ a=int(input("enter a value: "))
 b=int(input("enter b value: "))
 c=int(input("enter c value: "))
 print("Total is: ",my_sum(a,b,c))'''
-def total(totaL):
-    def totaL(a):
-        a=5
-        totaL=totaL-a
-        return totaL
-    return totaL
-print(total(2))
+print(2)
+print(3)
